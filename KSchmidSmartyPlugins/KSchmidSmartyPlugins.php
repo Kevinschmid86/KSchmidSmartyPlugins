@@ -21,7 +21,7 @@ class KSchmidSmartyPlugins extends Plugin
             'Enlight_Controller_Action_PostDispatchSecure' => 'onFrontendPostDispatchSecure'
         ];
     }
- 
+
     /**
      * @param Enlight_Event_EventArgs $arguments
      */
